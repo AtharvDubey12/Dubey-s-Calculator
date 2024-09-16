@@ -30,7 +30,11 @@ solve characteristic equation for a matrix.
 
 13.) Calculate distance between two 3D/2D points.
 
-14.) And not to forget, basic arithmetic like addition, subtraction, multiplication and division.
+14.) Check if 3 points are collinear or not.
+
+15.) Calculate hypotenuse of a right triangle.
+
+16.) And not to forget, basic arithmetic like addition, subtraction, multiplication and division.
 
 Libraries used: 'tk' and 'sympy'
 
