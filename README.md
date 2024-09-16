@@ -26,6 +26,8 @@ solve characteristic equation for a matrix.
 
 11.) Check continuity and differentiability of function at a point.
 
+12.) Calculate circum radius of any triangle.
+
 12.) And not to forget, basic arithmetic like addition, subtraction, multiplication and division.
 
 Libraries used: 'tk' and 'sympy'
