@@ -28,7 +28,9 @@ solve characteristic equation for a matrix.
 
 12.) Calculate circum radius of any triangle.
 
-13.) And not to forget, basic arithmetic like addition, subtraction, multiplication and division.
+13.) Calculate distance between two 3D/2D points.
+
+14.) And not to forget, basic arithmetic like addition, subtraction, multiplication and division.
 
 Libraries used: 'tk' and 'sympy'
 
