@@ -26,7 +26,7 @@ solve characteristic equation for a matrix.
 
 11.) Check continuity and differentiability of function at a point.
 
-12.) And not to forget, basic arithimetic like addition, subtraction, multiplication and division.
+12.) And not to forget, basic arithmetic like addition, subtraction, multiplication and division.
 
 Libraries used: 'tk' and 'sympy'
 
